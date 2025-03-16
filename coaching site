@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Fitness Coaching - Blerton Alijaj</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Willkommen bei Blerton Alijaj – Online Fitness Coaching</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Über mich</a></li>
+                <li><a href="#services">Angebote</a></li>
+                <li><a href="#reviews">Erfolgsgeschichten</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+                <li><a href="#legal">Rechtliches</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>Über mich</h2>
+        <p>Mein Name ist <strong>Blerton Alijaj</strong>, ich bin 19 Jahre alt und komme aus der Nähe von Düsseldorf. 
+        Schon als Kind war ich sportbegeistert, besonders für den Fußball. Doch mit der Zeit entwickelte sich meine Passion 
+        weiter – hin zum Krafttraining, Laufen und einer bewussten Ernährung. Diese Kombination hat mein Leben verändert 
+        und mir beeindruckende Ergebnisse gebracht. Seit Jahren beschäftige ich mich intensiv mit Fitness, Gesundheit und 
+        Leistungssteigerung. Mein Ziel ist es nun, mein Wissen und meine Erfahrung zu nutzen, um auch anderen Menschen zu helfen, 
+        ihre körperlichen und mentalen Ziele zu erreichen.</p>
+    </section>
+    
+    <section id="services">
+        <h2>Meine Angebote</h2>
+        <ul>
+            <li><strong>Basic Coaching</strong> – Individueller Trainingsplan & Check-ins (99€/Monat)</li>
+            <li><strong>Premium Coaching</strong> – Trainings- & Ernährungsplan, wöchentliche Calls (149€/Monat)</li>
+            <li><strong>VIP Coaching</strong> – 1:1 Betreuung, 24/7 Support (299€/Monat)</li>
+        </ul>
+    </section>
+    
+    <section id="reviews">
+        <h2>Erfolgsgeschichten</h2>
+        <p>Hier findest du echte Kundenrezensionen und beeindruckende Vorher-Nachher-Transformationen meiner Klienten. 
+        Motivation pur!</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Buche dein Erstgespräch</h2>
+        <p>Du bist bereit, den nächsten Schritt zu machen? Buche jetzt dein kostenloses Erstgespräch und lass uns deine Ziele besprechen!</p>
+        <iframe src="https://calendly.com/alijajblerton" width="100%" height="600px" frameborder="0"></iframe>
+    </section>
+    
+    <section id="legal">
+        <h2>Impressum & Datenschutz</h2>
+        <p><strong>Impressum</strong><br>
+        Blerton Alijaj<br>
+        Venloerstraße 124, 47638 Straelen<br>
+        E-Mail: alijajblerton@gmail.com</p>
+        
+        <p><strong>Datenschutz</strong><br>
+        Diese Website verwendet keine Cookies und speichert keine personenbezogenen Daten. Falls du dein Erstgespräch buchst, 
+        werden deine Daten von Calendly verarbeitet. Weitere Infos findest du in deren Datenschutzrichtlinien.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Blerton Alijaj | Online Fitness Coaching</p>
+    </footer>
+</body>
+</html>
